@@ -1,0 +1,19 @@
+// Welcome to the best language. World peace? Easy. "Hello, World!"? Done.
+
+TALK "This is the greatest Hello World. No one does it like me, believe me."
+
+MAKE america GREAT_AGAIN
+
+// Let's solve world peace, because we're really good at it. Strong decisions only.
+IF world_in_conflict THEN
+    BUILD_WALL()    // It's so easy to fix problems with a wall. You wouldn't believe it.
+    SANCTION("everyone")  // They all need sanctions. Except us. We're perfect.
+    TWEET "World peace achieved. No one can do it like me."
+    GOLF()  // Skip unnecessary thinking. It’s all about action, not thinking.
+ELSE
+    SAY("Hello World!")  // It’s so good. Everyone loves it. They’ll talk about it for years.
+    TWEET "The world is already peaceful. Incredible, isn't it?"
+    EXECUTIVE_ORDER EXECUTE_PEACE()  // Peace? Done. We don’t need democracy for peace.
+  
+// Total success. World peace in a couple of lines. Tremendous work.
+TWEET "It compiles. It runs. It’s the best code you’ve ever seen."
