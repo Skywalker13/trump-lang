@@ -1,4 +1,7 @@
-# 🇺🇸 trump-lang
+# trump-lang
+
+
+<img src="logo.webp" alt="Trump Lang Logo" width="200"/>
 
 > The only programming language that puts **America First™**.  
 > Compiles faster than a tweet, and crashes just as hard.
